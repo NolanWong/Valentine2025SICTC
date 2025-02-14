@@ -1,0 +1,52 @@
+.helldiver{
+    background-image: url(assets/Helldiver.png);
+    color: #F5F5F5;
+    overflow: hidden;
+}
+.title{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    font-size: 37px;
+}
+.heart{
+    margin-left: 5%;
+    width: 75px;
+    height: 75px;
+}
+.contain{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -5%;
+}
+.heart img{
+    width: 300px;
+    height: 300px;
+}
+.SEFlag{
+    width: 25%;
+    margin-right: -5%;
+    margin-top: 5%;
+}
+.SEFlag img{
+    width: 72%;
+    height: 36%;
+}
+.poem{
+    margin-top: 10%;
+    font-size: 30px;
+    float: left;
+    margin-right: 25%;
+}
+.enlist img{
+    float: right;
+    width: 400px;
+    height: 500px;
+    margin-left: 50%;
+    margin-top: 15%;
+    margin-right: 0%;
+}
+*{
+    box-sizing: border-box;
+}
